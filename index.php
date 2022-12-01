@@ -34,7 +34,7 @@
  */
 
         body {
-            background-image: url('bg1.jpg');
+            background-image: url('img/bg1.jpg');
             backdrop-filter: blur(8px);
             background-repeat: no-repeat;
             background-size: cover;
